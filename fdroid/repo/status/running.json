@@ -1,7 +1,8 @@
 {
   "commandLine": [
-    "/opt/homebrew/bin/fdroid deploy"
+    "/opt/homebrew/bin/fdroid update",
+    "--create-metadata"
   ],
-  "startTimestamp": 1666537926000,
-  "subcommand": "deploy"
+  "startTimestamp": 1666538493000,
+  "subcommand": "update"
 }
