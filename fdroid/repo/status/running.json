@@ -1,0 +1,7 @@
+{
+  "commandLine": [
+    "/opt/homebrew/bin/fdroid deploy"
+  ],
+  "startTimestamp": 1666537926000,
+  "subcommand": "deploy"
+}
